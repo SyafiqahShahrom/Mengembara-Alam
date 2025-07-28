@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc7775d50b5e947df8d6e17cf8d394ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HomeButton: {fileID: 480879240467290551, guid: adcaa1fd792c44f1893e67c99f5c2fbf, type: 3}
+  - PlaySceneButton: {fileID: 8219933954210494569, guid: 8422b86ca50fe4166903af0400c08414, type: 3}
+  - NextSceneButton: {fileID: 6812484423689542745, guid: 8d38053cb29174cf88f6863db7590a77, type: 3}
+  - PreviousSceneButton: {fileID: 3527222951946194980, guid: b0bd72c303e6e4cae97681e43292ac86, type: 3}
+  - Scene2Panel: {fileID: 1130081153664363759, guid: e240cd3297ea149479b0d7a810800116, type: 3}
+  - NextScenePanel: {fileID: 3575283443868778134, guid: 08a45ff86d4e248aeb1a635a56f9817c, type: 3}
+  - BGMainMenu: {fileID: 5151511292326733332, guid: 75688d40f192e4914a3a46fc934368ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

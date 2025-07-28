@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ScanPembakaran" size="0.227277 0.143804" />
+    <ImageTarget name="ScanPencemaran" size="0.227277 0.158185" />
+    <ImageTarget name="ScanPencairan" size="0.227277 0.143804" />
+  </Tracking>
+</QCARConfig>

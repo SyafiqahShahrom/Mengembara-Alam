@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Wildfire.unity
+    guid: 9804c03c85ce1446f8b1a9aba6af312d
+  - enabled: 1
+    path: Assets/Scenes/IntroPage.unity
+    guid: ed2e5ff8d925343979caa9a89da0e538
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 88dd8a446140b4724b219f58e50c0ac5
+  - enabled: 0
+    path: Assets/Scenes/MenuModul.unity
+    guid: 53eb0c0f62ed64fba895534e5dec033d
+  - enabled: 0
+    path: Assets/Scenes/MenuAR.unity
+    guid: 5577320bd48b5472eb3050676c8ca5b8
+  - enabled: 1
+    path: Assets/Scenes/MenuPermainan.unity
+    guid: 9ab4de3bdd60c4776825f4069d4357eb
+  - enabled: 0
+    path: Assets/Scenes/MenuGanjaran.unity
+    guid: ba62efcb813534dfa988b562b7db71e8
+  - enabled: 1
+    path: Assets/Scenes/Pembakaran.unity
+    guid: b1698f2b6aa5b4cb8b828503c622884b
+  - enabled: 1
+    path: Assets/Scenes/Pencemaran.unity
+    guid: 4183b6889b8524f47afdd8d132af24c7
+  - enabled: 1
+    path: Assets/Scenes/Pencairan.unity
+    guid: de52bee8620c0437895bb348351530af
+  - enabled: 1
+    path: Assets/Scenes/MenuPermainanPencemaran.unity
+    guid: 40e162bc2482444fd88da122ea324fec
+  - enabled: 1
+    path: Assets/Scenes/MenuPermainanPencairan.unity
+    guid: 391034c2625fd45d085f36e6d41b937e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 193050d7099ba48e3a278bd62f879eab, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 579f186565eac45fdbc969622cb2a2f1, type: 2}

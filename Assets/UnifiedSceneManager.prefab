@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9115635306157200034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9115635306157200035}
+  - component: {fileID: 9115635306157200044}
+  m_Layer: 0
+  m_Name: UnifiedSceneManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9115635306157200035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9115635306157200034}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 414.58057, y: 239.99973, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9115635306157200044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9115635306157200034}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32ed50973af494ffc8a3bbd73be612c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HomeButton: {fileID: 480879240467290551, guid: adcaa1fd792c44f1893e67c99f5c2fbf, type: 3}
+  PlaySceneButton: {fileID: 8219933954210494569, guid: 8422b86ca50fe4166903af0400c08414, type: 3}
+  NextSceneButton: {fileID: 6812484423689542745, guid: 8d38053cb29174cf88f6863db7590a77, type: 3}
+  PreviousSceneButton: {fileID: 3527222951946194980, guid: b0bd72c303e6e4cae97681e43292ac86, type: 3}
+  BGMainMenuPanel: {fileID: 8681138605807628102, guid: a8c5704dd1763429183b4b755586f72a, type: 3}
+  Scene2Panel: {fileID: 1130081153664363759, guid: e240cd3297ea149479b0d7a810800116, type: 3}
+  Scene3Panel: {fileID: 3575283443868778134, guid: 08a45ff86d4e248aeb1a635a56f9817c, type: 3}
+  introPageScene: IntroPage
+  pembakaranScene: Pembakaran
+  pencairanScene: Pencairan
+  pencemaranScene: Pencemaran

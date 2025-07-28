@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ScenePembakaran" size="0.374120 0.529166" />
+    <ImageTarget name="ScenePencairan" size="0.374120 0.529166" />
+    <ImageTarget name="ScenePencemaran" size="0.374120 0.529016" />
+  </Tracking>
+</QCARConfig>

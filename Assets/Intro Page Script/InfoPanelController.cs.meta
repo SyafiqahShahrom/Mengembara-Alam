@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1aa7ff9bc98ae47c998b332047222cc9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - infoPanel: {fileID: 1741578324929527566, guid: 288d4605d094948f0858a30b713dd701, type: 3}
+  - tutorialPanel1: {fileID: 8312454258480422141, guid: 4c94398146d234956a9e9e698eead5d8, type: 3}
+  - tutorialPanel2: {fileID: 2356713159705771574, guid: 719b30a198c934b3c98da5842990de65, type: 3}
+  - tutorialPanel3: {fileID: 6825222468966647831, guid: fd33db824f27145f2b3e03af057ccabe, type: 3}
+  - logoutPanel: {fileID: 2079919103923620920, guid: 4609585a66ebe4fd79ddd3cfcbc48db3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

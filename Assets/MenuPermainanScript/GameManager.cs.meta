@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0cc49ef8653dd4439817436c2878d8da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tamatPanel: {fileID: 1663237560655255609, guid: 88fb1aba9865c46e0bf0e9c8a0601c56, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
