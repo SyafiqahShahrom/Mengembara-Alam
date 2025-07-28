@@ -84,7 +84,7 @@ MengembaraAlam/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fieryviol3t/MengembaraAlam.git
+   git clone https://github.com/SyafiqahShahrom/MengembaraAlam.git
 2. Open the project in Unity.
 3. Make sure ARCamera and Vuforia are properly configured.
 4. Press Play in Unity Editor or build the APK for Android:
@@ -106,7 +106,7 @@ This project is licensed under the MIT License. You may freely use, modify, and 
 - Developer: Syafiqah Shahrom
 - Email: [nursyafiqah0328@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/syafiqah-shahrom/?originalSubdomain=my]
-- GitHub: [github.com/fieryviol3t]
+- GitHub: [github.com/SyafiqahShahrom]
 
 🎯 Career Objective
 
