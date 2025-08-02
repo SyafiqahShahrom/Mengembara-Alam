@@ -38,7 +38,8 @@
 ### 📸 Application Screenshots
 
 ![Main Menu](screenshots/main-menu.png)
-![AR Experience](screenshots/ar-view.png)
+![AR Experience](screenshots/AR-view.png)
+![AR StoryBook](screenshots/AR-book-view.png)
 ![Mini Game](screenshots/mini-game.png)
 
 ## 🔧 Technologies Used
