@@ -76,7 +76,7 @@ MengembaraAlam/
 
 ### Requirements
 
-- Unity 2022.3.5f1
+- Unity 2022.3.45f1
 - Vuforia Engine (configured via Unity Package Manager)
 - Android Build Support (for deployment)
 
@@ -84,7 +84,7 @@ MengembaraAlam/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SyafiqahShahrom/MengembaraAlam.git
+   git clone https://github.com/SyafiqahShahrom/Mengembara-Alam.git
 2. Open the project in Unity.
 3. Make sure ARCamera and Vuforia are properly configured.
 4. Press Play in Unity Editor or build the APK for Android:
