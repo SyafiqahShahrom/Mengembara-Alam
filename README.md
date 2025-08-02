@@ -39,7 +39,7 @@
 
 ![Main Menu](screenshots/main-menu.png)
 ![AR Experience](screenshots/ar-view.png)
-![Reward Gallery](screenshots/reward-gallery.png)
+![Mini Game](screenshots/mini-game.png)
 
 ## 🔧 Technologies Used
 
