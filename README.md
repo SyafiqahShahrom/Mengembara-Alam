@@ -40,7 +40,7 @@
 ![Main Menu](screenshots/main-menu.png)
 ![AR Experience](screenshots/AR-view.png)
 ![AR StoryBook](screenshots/AR-book-view.png)
-![Mini Game](screenshots/mini-game.png)
+![Mini Game](screenshots/mini-games.png)
 
 ## 🔧 Technologies Used
 
